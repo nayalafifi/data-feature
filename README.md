@@ -38,6 +38,3 @@ You'll need two API keys for this project:
 ### 2. Install Required Libraries 📦
 
 You'll need the `requests` library in Python to make HTTP requests. You can install it using:
-
-```bash
-pip install requests

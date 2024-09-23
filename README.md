@@ -1,13 +1,13 @@
 # 🏎️ Formula 1 Last Grand Prix Winner News Fetcher 📰
 
-Welcome to the **Formula 1 Last Grand Prix Winner News Fetcher**! This tool allows you to search for a Formula 1 driver, retrieve details about the last Grand Prix they won, and display news articles about the location where the race was held. It's an ideal tool for F1 fans to stay up-to-date on their favorite drivers and race locations.
+Welcome to the **Formula 1 Last Grand Prix Winner News Fetcher**! This tool allows you to search for a Formula 1 driver, retrieve details about the last Grand Prix they won, and display news articles about the location where the race was held. 
 
 ## 💡 Feature Description
 
 The **Formula 1 Last Grand Prix Winner News Fetcher** allows you to:
 - Input a Formula 1 driver's name 🏁
 - Retrieve information about the last Grand Prix they won (in the current season) 🏆
-- Fetch and display the top 3 news articles about the location of the Grand Prix 🌍
+- Display the top 3 news articles about the location of the Grand Prix 🌍
 
 ## 🌐 APIs Used
 
@@ -23,18 +23,18 @@ The **Formula 1 Last Grand Prix Winner News Fetcher** allows you to:
     - **Usage**:
         - Retrieves news articles about the location of the Grand Prix race based on the driver’s most recent win.
 
-## 🛠️ Setup and Prerequisites
+## 🛠️ Setup
 
 ### 1. Get Your API Keys 🔑
 
 You'll need two API keys for this project:
 
-- **[Ergast F1 API](https://ergast.com/mrd/)**: No API key is required for the Ergast F1 API.
+- **[Ergast F1 API](https://ergast.com/mrd/)**
 - **[TheNewsAPI](https://www.thenewsapi.com/)**: Sign up on TheNewsAPI to get your API key.
     - **Step 1**: Go to [TheNewsAPI](https://www.thenewsapi.com/).
     - **Step 2**: Sign up for an account.
-    - **Step 3**: Navigate to your dashboard and copy your API token.
+    - **Step 3**: Navigate to your dashboard and copy your API key.
 
 ### 2. Install Required Libraries 📦
 
-You'll need the `requests` library in Python to make HTTP requests. You can install it using:
+You'll need the `requests` library in Python to make HTTP requests.

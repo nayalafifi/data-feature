@@ -2,7 +2,7 @@
 
 Welcome to the **Formula 1 Last Grand Prix Winner News Fetcher**! This tool allows you to search for a Formula 1 driver, retrieve details about the last Grand Prix they won, and display news articles about the location where the race was held. 
 
-## 💡 Feature Description
+## Description
 
 The **Formula 1 Last Grand Prix Winner News Fetcher** allows you to:
 - Input a Formula 1 driver's name 🏁
@@ -25,7 +25,7 @@ The **Formula 1 Last Grand Prix Winner News Fetcher** allows you to:
 
 ## 🛠️ Setup
 
-### 1. Get Your API Keys 🔑
+### Get Your API Keys 🔑
 
 You'll need two API keys for this project:
 
@@ -34,7 +34,3 @@ You'll need two API keys for this project:
     - **Step 1**: Go to [TheNewsAPI](https://www.thenewsapi.com/).
     - **Step 2**: Sign up for an account.
     - **Step 3**: Navigate to your dashboard and copy your API key.
-
-### 2. Install Required Libraries 📦
-
-You'll need the `requests` library in Python to make HTTP requests.

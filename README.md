@@ -34,3 +34,6 @@ You'll need two API keys for this project:
     - **Step 1**: Go to [TheNewsAPI](https://www.thenewsapi.com/).
     - **Step 2**: Sign up for an account.
     - **Step 3**: Navigate to your dashboard and copy your API key.
+
+- **Cloning the repository**
+- git clone https://github.com/nayalafifi/data-feature.git
